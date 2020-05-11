@@ -2,4 +2,4 @@
 Screenshot:
 
 
-![Screenshot](pic\Screeshot.png "Screenshot 1")
+![Screenshot](pic/Screeshot.png "Screenshot 1")
